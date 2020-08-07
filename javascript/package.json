@@ -1,0 +1,11 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms implemented in javaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "John Irle <irlejohn@gmail.com> (http://johnirle.com/)",
+  "license": "MIT"
+}
