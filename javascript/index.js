@@ -1,4 +1,4 @@
-const binarySearch = require('./binary-search');
+const binarySearch = require("./binary-search");
 
 const test_array = [1, 3, 5, 7, 9];
 

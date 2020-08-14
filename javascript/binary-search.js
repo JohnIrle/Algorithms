@@ -16,6 +16,6 @@ const binarySearch = (array, item) => {
     }
 
     return -1;
-}
+};
 
 module.exports = binarySearch;
